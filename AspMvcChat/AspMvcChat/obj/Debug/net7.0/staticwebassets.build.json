@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cb6pohNAkrXXyUt8qOgYQAPAIPSBgMuOvczRZIhf64M=",
+  "Source": "AspMvcChat",
+  "BasePath": "_content/AspMvcChat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspMvcChat\\wwwroot",
+      "Source": "AspMvcChat",
+      "ContentRoot": "D:\\GitHubRepos\\AspMvcChat\\AspMvcChat\\AspMvcChat\\wwwroot\\",
+      "BasePath": "_content/AspMvcChat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\GitHubRepos\\AspMvcChat\\AspMvcChat\\AspMvcChat\\wwwroot\\style.css",
+      "SourceId": "AspMvcChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubRepos\\AspMvcChat\\AspMvcChat\\AspMvcChat\\wwwroot\\",
+      "BasePath": "_content/AspMvcChat",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHubRepos\\AspMvcChat\\AspMvcChat\\AspMvcChat\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AspMvcChat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AspMvcChat.props",
+      "PackagePath": "build\\AspMvcChat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AspMvcChat.props",
+      "PackagePath": "buildMultiTargeting\\AspMvcChat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AspMvcChat.props",
+      "PackagePath": "buildTransitive\\AspMvcChat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
