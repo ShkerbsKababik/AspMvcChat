@@ -7,5 +7,15 @@
 <body>
     <a href="Home/Login">Login</a>
     <a href="Home/Register">Register</a>
+    <table class="table">
+        <tr><th>Login</th><th>Password</th></tr>
+        @foreach (var item in ViewBag.Users)
+        {
+            <tr>
+                <td>@item.Login</td>
+                <td>@item.Password</td>
+            </tr>
+        }
+    </table>
 </body>
 </html>
